@@ -8,7 +8,7 @@ import java.util.Map;
 
 public class Kata2 {
     
-    private final static int[] data = {1, 2, 100, 45, 32, 7, 0, 100, 32, 1, 100, 32, 7, 100, 7, 9, 13, 100, 26, 86};
+    private final static Integer[] data = {1, 2, 100, 45, 32, 7, 0, 100, 32, 1, 100, 32, 7, 100, 7, 9, 13, 100, 26, 86};
 
     /**
      * @param args the command line arguments
